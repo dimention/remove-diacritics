@@ -1,6 +1,6 @@
 {
   "name": "remove-diacritics",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Remove diacritics/accents from a string.",
   "main": "index.js",
   "scripts": {
